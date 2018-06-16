@@ -1,9 +1,11 @@
 
-`smonitor snap`
+SMonitor snap
+--------------
 
 Java monitor to show server states - for Apache2, MySQL etc... - but also for start- and system monitoring - SMonitor
 
 =======================================
+
 
 Already created for Ubuntu/i386:
 
