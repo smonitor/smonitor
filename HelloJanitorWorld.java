@@ -1,6 +1,7 @@
 // JAVA - SMonitor
 // HelloJanitorWorld.java
-// http://smolka.lima-city.de
+// http://smolka.lima-city.de/
+// http://smolka.lima-city.de/contact.php
 
 public class HelloJanitorWorld {
 
