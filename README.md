@@ -2,7 +2,10 @@
 
 
 #  SPECIAL EDITION  #
-  see
+
+NO snap! -- Linux, Mac OS, Windows ... 
+
+  see   
     https://smolka.lima-city.de/smonitor/index.php
     
     
